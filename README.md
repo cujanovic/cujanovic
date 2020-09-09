@@ -1,5 +1,5 @@
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cujanovic&theme=flat)](https://twitter.com/cujanovic)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cujanovic&theme=dracula)](https://twitter.com/cujanovic)
 
 
